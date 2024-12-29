@@ -2,5 +2,7 @@
 name = "metabolizer"
 version = "0.1.0"
 edition = "2021"
+description = "Metabolizer is a Rust library to transform Gesttalt gardens into deployable units."
+license = "MIT"
 
 [dependencies]
